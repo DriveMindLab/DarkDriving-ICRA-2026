@@ -68,7 +68,6 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
   <img src="assets/LOL_dataset.png" width="45%">
   <img src="assets/DARK_dataset.png" width="45%">
 </p>
-
 <p align="center">
   Others
 </p>
@@ -77,7 +76,6 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
   <img src="assets/our2.png" width="45%">
   <img src="assets/our1.png" width="45%">
 </p>
-
 <p align="center">
   Ours
 </p>
