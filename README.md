@@ -70,8 +70,16 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
 </p>
 
 <p align="center">
+  <b>Others</b>
+</p>
+
+<p align="center">
   <img src="assets/our2.png" width="45%">
   <img src="assets/our1.png" width="45%">
+</p>
+
+<p align="center">
+  <b>Ours</b>
 </p>
 
 <p align="center">
