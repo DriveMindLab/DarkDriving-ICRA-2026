@@ -1,16 +1,16 @@
 # DarkDriving-ICRA-2026
 DarkDriving is the first real-world day–night aligned autonomous driving dataset using TTPM. It contains 9,538 pairs with centimeter-level alignment and annotations, enabling low-light enhancement and perception tasks. This repo provides key code and data.
 
-# Dataset
+## Dataset
 A real-world paired day-night driving dataset with centimeter-level alignment for low-light enhancement and autonomous driving perception.
-## News
+### News
 
 - **[2026-03]** DarkDriving paper is available.
 - **[Coming Soon]** Dataset download link will be released.
 
 ---
 
-## Introduction
+### Introduction
 
 **DarkDriving** is a real-world day and night aligned dataset for autonomous driving in dark environments.  
 It is designed to support research on low-light enhancement, day-night image translation, and perception robustness for autonomous driving.
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/c41809d2-64ec-4df4-8f57-36e5b317022f
 
 ---
 
-## Highlights
+### Highlights
 
 - **The first real-world centimeter-level aligned day-night driving dataset** for autonomous driving in dark environments.
 - **Real-world driving scenes** collected in a large closed driving test field.
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/c41809d2-64ec-4df4-8f57-36e5b317022f
 
 ---
 
-## Dataset Overview
+### Dataset Overview
 
 | Item | Description |
 |---|---|
@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/c41809d2-64ec-4df4-8f57-36e5b317022f
 
 ---
 
-## Dataset Comparison
+### Dataset Comparison
 
 DarkDriving is different from previous low-light enhancement datasets and nighttime driving datasets.  
 Compared with exposure-controlled low-light datasets, DarkDriving focuses on real driving scenes.  
@@ -88,9 +88,9 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
 
 ---
 
-## Data Collection
+### Data Collection
 
-### Collection Vehicle
+#### Collection Vehicle
 
 DarkDriving is collected using an automated vehicle equipped with a front-view RGB camera, LiDAR, GPS, and IMU sensors.
 
@@ -103,7 +103,7 @@ DarkDriving is collected using an automated vehicle equipped with a front-view R
   <b>Automated vehicle used for data collection.</b>
 </p>
 
-### Sensor Setup
+#### Sensor Setup
 
 <p align="center">
   <img src="assets/ChanganCAVSENSOR.png" width="45%">
@@ -116,7 +116,7 @@ DarkDriving is collected using an automated vehicle equipped with a front-view R
 
 ---
 
-## Collection Site
+### Collection Site
 
 The dataset is collected in a large-scale closed driving test field.  
 The closed test field allows us to control static background vehicles, streetlights, and different nighttime lighting conditions.
@@ -131,7 +131,7 @@ The closed test field allows us to control static background vehicles, streetlig
 
 ---
 
-## Day-Night Alignment Method
+### Day-Night Alignment Method
 
 To collect precisely aligned day-night image pairs, we use a **Trajectory Tracking based Pose Matching** pipeline.
 
@@ -154,11 +154,11 @@ The overall pipeline contains the following steps:
 
 ---
 
-## Scenario Diversity
+### Scenario Diversity
 
 DarkDriving contains diverse road scenes and nighttime lighting conditions.
 
-### Road Scene Types
+#### Road Scene Types
 
 The dataset includes the following road scenes:
 
@@ -169,7 +169,7 @@ The dataset includes the following road scenes:
 - T-intersection
 - Intersection
 
-### Nighttime Lighting Conditions
+#### Nighttime Lighting Conditions
 
 The dataset contains various nighttime lighting conditions, including:
 
