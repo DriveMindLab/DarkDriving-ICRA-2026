@@ -65,13 +65,13 @@ Compared with exposure-controlled low-light datasets, DarkDriving focuses on rea
 Compared with nighttime driving datasets with rough GPS alignment, DarkDriving provides precisely aligned day-night image pairs.
 
 <p align="center">
-  <img src="asset/DARK_dataset.png" width="45%">
-  <img src="asset/LOL_dataset.png" width="45%">
+  <img src="assets/DARK_dataset.png" width="45%">
+  <img src="assets/LOL_dataset.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="asset/our2.png" width="45%">
-  <img src="asset/our1.png" width="45%">
+  <img src="assets/our2.png" width="45%">
+  <img src="assets/our1.png" width="45%">
 </p>
 
 <p align="center">
@@ -87,8 +87,8 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
 DarkDriving is collected using an automated vehicle equipped with a front-view RGB camera, LiDAR, GPS, and IMU sensors.
 
 <p align="center">
-  <img src="asset/changan.png" width="30%">
-  <img src="asset/无人车图片1.png" width="30%">
+  <img src="assets/changan.png" width="30%">
+  <img src="assets/无人车图片1.png" width="30%">
 </p>
 
 <p align="center">
@@ -98,8 +98,8 @@ DarkDriving is collected using an automated vehicle equipped with a front-view R
 ### Sensor Setup
 
 <p align="center">
-  <img src="asset/ChanganCAVSENSOR.png" width="45%">
-  <img src="asset/无人车传感器坐标.png" width="45%">
+  <img src="assets/ChanganCAVSENSOR.png" width="45%">
+  <img src="assets/无人车传感器坐标.png" width="45%">
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ The dataset is collected in a large-scale closed driving test field.
 The closed test field allows us to control static background vehicles, streetlights, and different nighttime lighting conditions.
 
 <p align="center">
-  <img src="asset/testfiled.png" width="90%">
+  <img src="assets/testfiled.png" width="90%">
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ The overall pipeline contains the following steps:
 6. Refine the matched pairs manually to remove mismatched dynamic objects and large alignment errors.
 
 <p align="center">
-  <img src="asset/framework.png" width="95%">
+  <img src="assets/framework.png" width="95%">
 </p>
 
 <p align="center">
