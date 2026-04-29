@@ -65,8 +65,8 @@ Compared with exposure-controlled low-light datasets, DarkDriving focuses on rea
 Compared with nighttime driving datasets with rough GPS alignment, DarkDriving provides precisely aligned day-night image pairs.
 
 <p align="center">
-  <img src="assets/DARK_dataset.png" width="45%">
   <img src="assets/LOL_dataset.png" width="45%">
+  <img src="assets/DARK_dataset.png" width="45%">
 </p>
 
 <p align="center">
