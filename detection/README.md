@@ -1,4 +1,4 @@
-# YOLO11 Detection for DarkDriving
+# Detection for DarkDriving
 
 This module provides a reproducible YOLO11-based detection pipeline for the
 Dark Driving release. It includes validation scripts for the released and
