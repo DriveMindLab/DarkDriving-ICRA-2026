@@ -1,4 +1,4 @@
-# YOLO11 Detection for Dark Driving
+# YOLO11 Detection for DarkDriving
 
 This module provides a reproducible YOLO11-based detection pipeline for the
 Dark Driving release. It includes validation scripts for the released and
@@ -8,13 +8,8 @@ line entry point for evaluation, fine-tuning, and rendered prediction export.
 ## Highlights
 
 - YOLO11 detection evaluation with Ultralytics.
-- Release and fine-tuned checkpoint workflows.
 - Day, night, and SNR-aware low-light validation configs.
 - Optional class remapping that merges COCO `car`, `bus`, and `truck` into a
-  single `car` class for car-centric reporting.
-- Flat rendered prediction export for fast qualitative inspection.
-- Relative dataset paths, so the project can be moved or cloned without editing
-  machine-specific paths.
 
 ## Repository Layout
 
@@ -148,4 +143,3 @@ flat, which is useful for side-by-side review or downstream report generation.
   `--model_ckpt` path.
 - Ultralytics dataset cache files are cleared automatically and validation is
   retried if an incompatible cached NumPy module is detected.
-- The shell scripts assume they are executed from the `yolo11_det` directory.
