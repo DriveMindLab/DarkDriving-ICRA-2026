@@ -1,0 +1,5 @@
+path: ../detection_dataset/night
+train: images/train
+val: images/val
+nc: 80
+merge_car: true

@@ -1,0 +1,5 @@
+path: ../detection_dataset/snr-aware/night
+train: images/train
+val: images/val
+nc: 80
+merge_car: true

@@ -1,0 +1,6 @@
+path: ../detection_dataset/day
+train: images/train
+val: images/val
+nc: 1
+names:
+  0: car
