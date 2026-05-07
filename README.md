@@ -161,28 +161,39 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
 
 <table>
   <tr>
-    <td width="220"><b>Multi-lane road</b></td>
-    <td><img src="assets/multi_lane_road.png" width="240"></td>
+    <th align="left">Scene Type</th>
+    <th align="center">Percentage</th>
+    <th align="center">Example</th>
   </tr>
   <tr>
-    <td width="220"><b>Single-lane road</b></td>
-    <td><img src="assets/single_lane_road.png" width="240"></td>
+    <td><b>Multi-lane Road</b></td>
+    <td align="center">63.3%</td>
+    <td align="center"><img src="assets/multi_lane_road.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Curved road</b></td>
-    <td><img src="assets/curved_road.png" width="240"></td>
+    <td><b>Single-lane Road</b></td>
+    <td align="center">16.7%</td>
+    <td align="center"><img src="assets/single_lane_road.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Open road</b></td>
-    <td><img src="assets/open_road.png" width="240"></td>
+    <td><b>Curved Road</b></td>
+    <td align="center">6.5%</td>
+    <td align="center"><img src="assets/curved_road.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>T-intersection</b></td>
-    <td><img src="assets/t_intersection.png" width="240"></td>
+    <td><b>Open Road</b></td>
+    <td align="center">2.9%</td>
+    <td align="center"><img src="assets/open_road.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Intersection</b></td>
-    <td><img src="assets/intersection.png" width="240"></td>
+    <td><b>T-intersection</b></td>
+    <td align="center">4.7%</td>
+    <td align="center"><img src="assets/t_intersection.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Intersection</b></td>
+    <td align="center">5.9%</td>
+    <td align="center"><img src="assets/intersection.png" width="260"></td>
   </tr>
 </table>
 
@@ -190,37 +201,69 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
 
 <table>
   <tr>
-    <td width="220"><b>No streetlight</b></td>
-    <td><img src="assets/no_streetlight.png" width="240"></td>
+    <th align="left">Lighting Condition</th>
+    <th align="center">Percentage</th>
+    <th align="center">Example</th>
   </tr>
   <tr>
-    <td width="220"><b>Vehicle low beam</b></td>
-    <td><img src="assets/vehicle_low_beam.png" width="240"></td>
+    <td><b>No Streetlight</b></td>
+    <td align="center">50.7%</td>
+    <td align="center"><img src="assets/no_streetlight.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Vehicle high beam</b></td>
-    <td><img src="assets/vehicle_high_beam.png" width="240"></td>
+    <td><b>Vehicle Low Beam</b></td>
+    <td align="center">5.9%</td>
+    <td align="center"><img src="assets/vehicle_low_beam.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Vehicle backlight</b></td>
-    <td><img src="assets/vehicle_backlight.png" width="240"></td>
+    <td><b>Bilateral Streetlights &amp; Vehicle Low Beam</b></td>
+    <td align="center">2.6%</td>
+    <td align="center"><img src="assets/bilateral_streetlights_vehicle_low_beam.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Bilateral streetlights</b></td>
-    <td><img src="assets/bilateral_streetlights.png" width="240"></td>
+    <td><b>Unilateral Streetlights &amp; Vehicle Low Beam</b></td>
+    <td align="center">1.3%</td>
+    <td align="center"><img src="assets/unilateral_streetlights_vehicle_low_beam.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Unilateral streetlights</b></td>
-    <td><img src="assets/unilateral_streetlights.png" width="240"></td>
+    <td><b>Bilateral Streetlights</b></td>
+    <td align="center">6.7%</td>
+    <td align="center"><img src="assets/bilateral_streetlights.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Streetlights with vehicle beams</b></td>
-    <td><img src="assets/streetlights_vehicle_beams.png" width="240"></td>
+    <td><b>Vehicle High Beam</b></td>
+    <td align="center">8.7%</td>
+    <td align="center"><img src="assets/vehicle_high_beam.png" width="260"></td>
   </tr>
   <tr>
-    <td width="220"><b>Streetlights with vehicle backlight</b></td>
-    <td><img src="assets/streetlights_vehicle_backlight.png" width="240"></td>
+    <td><b>Bilateral Streetlights &amp; Vehicle High Beam</b></td>
+    <td align="center">2.3%</td>
+    <td align="center"><img src="assets/bilateral_streetlights_vehicle_high_beam.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Unilateral Streetlights &amp; Vehicle High Beam</b></td>
+    <td align="center">1.8%</td>
+    <td align="center"><img src="assets/unilateral_streetlights_vehicle_high_beam.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Unilateral Streetlights</b></td>
+    <td align="center">8.4%</td>
+    <td align="center"><img src="assets/unilateral_streetlights.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Vehicle Backlight</b></td>
+    <td align="center">7.0%</td>
+    <td align="center"><img src="assets/vehicle_backlight.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Bilateral Streetlights &amp; Vehicle Backlight</b></td>
+    <td align="center">2.9%</td>
+    <td align="center"><img src="assets/bilateral_streetlights_vehicle_backlight.png" width="260"></td>
+  </tr>
+  <tr>
+    <td><b>Unilateral Streetlights &amp; Vehicle Backlight</b></td>
+    <td align="center">1.7%</td>
+    <td align="center"><img src="assets/unilateral_streetlights_vehicle_backlight.png" width="260"></td>
   </tr>
 </table>
-
 ---
