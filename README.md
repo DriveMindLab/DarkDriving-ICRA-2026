@@ -19,10 +19,8 @@ Existing low-light enhancement datasets are usually collected in small static sc
 
 The dataset is collected in a large-scale closed driving test field using an automated vehicle. A Trajectory Tracking based Pose Matching method is used to obtain highly aligned day-night image pairs.
 
+https://github.com/user-attachments/assets/c3cfe881-e4ac-4753-b6f9-6d00b583acb4
 
-<p align="center">
-  <vidoe src="assets/finnal_video.mp4" width="90%">
-</p>
 
 
 ---
