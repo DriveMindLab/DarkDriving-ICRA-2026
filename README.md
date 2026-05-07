@@ -159,26 +159,68 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
 
 #### Road Scene Types
 
-The dataset includes the following road scenes:
-
-- Multi-lane road
-- Single-lane road
-- Curved road
-- Open road
-- T-intersection
-- Intersection
+<table>
+  <tr>
+    <td width="220"><b>Multi-lane road</b></td>
+    <td><img src="assets/multi_lane_road.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Single-lane road</b></td>
+    <td><img src="assets/single_lane_road.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Curved road</b></td>
+    <td><img src="assets/curved_road.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Open road</b></td>
+    <td><img src="assets/open_road.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>T-intersection</b></td>
+    <td><img src="assets/t_intersection.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Intersection</b></td>
+    <td><img src="assets/intersection.png" width="240"></td>
+  </tr>
+</table>
 
 #### Nighttime Lighting Conditions
 
-The dataset contains various nighttime lighting conditions, including:
-
-- No streetlight
-- Vehicle low beam
-- Vehicle high beam
-- Vehicle backlight
-- Bilateral streetlights
-- Unilateral streetlights
-- Streetlights with vehicle beams
-- Streetlights with vehicle backlight
+<table>
+  <tr>
+    <td width="220"><b>No streetlight</b></td>
+    <td><img src="assets/no_streetlight.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Vehicle low beam</b></td>
+    <td><img src="assets/vehicle_low_beam.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Vehicle high beam</b></td>
+    <td><img src="assets/vehicle_high_beam.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Vehicle backlight</b></td>
+    <td><img src="assets/vehicle_backlight.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Bilateral streetlights</b></td>
+    <td><img src="assets/bilateral_streetlights.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Unilateral streetlights</b></td>
+    <td><img src="assets/unilateral_streetlights.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Streetlights with vehicle beams</b></td>
+    <td><img src="assets/streetlights_vehicle_beams.png" width="240"></td>
+  </tr>
+  <tr>
+    <td width="220"><b>Streetlights with vehicle backlight</b></td>
+    <td><img src="assets/streetlights_vehicle_backlight.png" width="240"></td>
+  </tr>
+</table>
 
 ---
