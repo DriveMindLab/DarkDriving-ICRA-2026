@@ -161,7 +161,7 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
 
 <table>
   <tr>
-    <th align="center" valign="middle" width="220">Scene Type</th>
+    <th align="center" valign="middle" width="260">Scene Type</th>
     <th align="center" valign="middle" width="120">Percentage</th>
     <th align="center" valign="middle" width="320">Example</th>
   </tr>
