@@ -1,10 +1,14 @@
+# DarkDriving Dataset License
+
+Copyright (c) 2026 [DriveMindLab].
+
 The DarkDriving dataset, including images, annotations, metadata, and related materials (collectively, the “Dataset”), is made available for academic research and non-commercial use only.
 
-1. Permitted Use
+## 1. Permitted Use
 
 Academic institutions, nonprofit organizations, and individual researchers are permitted to use, copy, and modify the Dataset solely for non-commercial research, educational, and academic purposes.
 
-2. Restrictions
+## 2. Restrictions
 
 Users may not:
 
@@ -13,17 +17,23 @@ Users may not:
 - use the Dataset to provide services or build products for commercial benefit;
 - remove or alter any copyright, attribution, or license notices associated with the Dataset.
 
-3. Redistribution
+## 3. Redistribution
 
 Redistribution of the full Dataset or substantial portions of the Dataset is prohibited without prior written permission from the copyright holder.
 
-4. Attribution
+## 4. Attribution
 
 Any publication, report, thesis, or other research output using the Dataset must cite the corresponding DarkDriving paper and acknowledge the Dataset appropriately.
 
-5. No Warranty
+## 5. No Warranty
 
 The Dataset is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the copyright holder or contributors be liable for any claim, damages, or other liability arising from the use of the Dataset.
 
+## 6. Commercial Licensing
+
+For commercial use, licensing opportunities, or other permissions beyond the scope of this license, please contact:
+
+[Your Name / Lab / Institution]  
+[Your Email]
 
 By downloading or using the Dataset, you agree to the terms of this license.
