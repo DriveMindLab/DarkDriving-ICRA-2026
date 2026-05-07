@@ -329,30 +329,18 @@ DarkDriving is mainly supported by **[Your Lab / Institution Name]**.
 
 ### Principal Investigator
 
-- **[Name]** ([homepage](#), [google scholar](#), [linkedin](#))
+- WuQi Wang
 
 ### Project Lead
 
-- **[Name]** ([homepage](#), [github](#), [linkedin](#))
+- HaiGen Min
 
-### Core Contributors
+### Team Members
 
-- **[Name]** ([github](#), [linkedin](#))
-- **[Name]** ([github](#), [linkedin](#))
-- **[Name]** ([github](#), [linkedin](#))
-- **[Name]** ([github](#), [linkedin](#))
-
-### Dataset Collection and Annotation
-
-- **[Name]** ([homepage](#))
-- **[Name]** ([homepage](#))
-- **[Name]** ([homepage](#))
-- **[Name]** ([homepage](#))
-
-### Technical Support
-
-- **[Name]** ([github](#))
-- **[Name]** ([github](#))
+- **[Name]** 
+- **[Name]**
+- **[Name]**
+- **[Name]** 
 
 ### External Collaborators / Acknowledgements
 
