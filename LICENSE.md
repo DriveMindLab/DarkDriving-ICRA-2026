@@ -4,15 +4,9 @@ Institution hereby grants to you free of charge, so long as you are an academic 
 
 Please note you are prohibited from further transferring the Dataset -- including any derivatives you make thereof -- to any person or entity. Failure by you to adhere to the requirements in Paragraphs 1 and 2 will result in immediate termination of the license granted to you pursuant to this Academic Dataset License effective as of the date you first used the Dataset.
 
-1. Permitted Use
-
 You may use, copy, modify, and create derivative works of the Dataset solely for non-commercial academic research, educational use, and other nonprofit scholarly purposes.
 
-2. Restrictions
-
 You may not use the Dataset for any commercial purpose, including but not limited to product development, commercial testing, commercial services, contracted research for corporate benefit, or any activity intended to generate revenue. You may not sell, sublicense, rent, lease, distribute, publish, or otherwise transfer the Dataset, in whole or in part, to any third party. You may not remove or alter any copyright, attribution, or license notices associated with the Dataset.
-
-3. Attribution
 
 Any publication, report, thesis, presentation, benchmark, or other research output using the Dataset must cite the corresponding DarkDriving paper and acknowledge the Dataset appropriately.
 
