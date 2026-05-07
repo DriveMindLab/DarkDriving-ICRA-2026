@@ -186,7 +186,7 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
     <td align="center"><img src="assets/open_road.png" width="260"></td>
   </tr>
   <tr>
-    <td><b>T-intersection</b></td>
+    <td><b>T-intersection                                 </b></td>
     <td align="center">4.7%</td>
     <td align="center"><img src="assets/t_intersection.png" width="260"></td>
   </tr>
@@ -266,4 +266,20 @@ DarkDriving contains diverse road scenes and nighttime lighting conditions.
     <td align="center"><img src="assets/unilateral_streetlights_vehicle_backlight.png" width="260"></td>
   </tr>
 </table>
+
 ---
+
+## Citation
+
+If you use the **DarkDriving** dataset, annotations, or related code in your research or development, please cite the following paper:
+
+```bibtex
+@article{wang2026darkdriving,
+  title={DarkDriving: A Real-World Day and Night Aligned Dataset for Autonomous Driving in the Dark Environment},
+  author={Wang, Wuqi and Yang, Haochen and Li, Baolu and Sun, Jiaqi and Zhao, Xiangmo and Xu, Zhigang and Guo, Qing and Min, Haigen and Zhang, Tianyun and Yu, Hongkai},
+  journal={arXiv preprint arXiv:2603.18067},
+  year={2026}
+}
+The arxiv link to the paper:https://arxiv.org/abs/2603.18067
+
+Also, under this LICENSE, OpenCDA is for non-commercial research only. Researchers can modify the source code for their own research only. Contracted work that generates corporate revenues and other general commercial use are prohibited under this LICENSE. 
