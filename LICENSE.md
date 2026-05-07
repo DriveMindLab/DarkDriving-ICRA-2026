@@ -1,39 +1,19 @@
-# DarkDriving Dataset License
+Academic Dataset License: © 2026 [DriveMindLab] (“Institution”). Academic or nonprofit researchers are permitted to use this Dataset (as defined below) subject to Paragraphs 1-3:
 
-Copyright (c) 2026 [DriveMindLab].
+Institution hereby grants to you free of charge, so long as you are an academic or nonprofit researcher, a nonexclusive license under Institution’s copyright ownership interest in this dataset and any derivative works made by you thereof (collectively, the “Dataset”), to use, copy, and make derivative works of the Dataset solely for educational or academic research purposes, in all cases subject to the terms of this Academic Dataset License. Except as granted herein, all rights are reserved by Institution, including the right to pursue patent protection or other intellectual property protection related to the Dataset.
 
-The DarkDriving dataset, including images, annotations, metadata, and related materials (collectively, the “Dataset”), is made available for academic research and non-commercial use only.
+Please note you are prohibited from further transferring the Dataset -- including any derivatives you make thereof -- to any person or entity. Failure by you to adhere to the requirements in Paragraphs 1 and 2 will result in immediate termination of the license granted to you pursuant to this Academic Dataset License effective as of the date you first used the Dataset.
 
-## 1. Permitted Use
+1. Permitted Use
 
-Academic institutions, nonprofit organizations, and individual researchers are permitted to use, copy, and modify the Dataset solely for non-commercial research, educational, and academic purposes.
+You may use, copy, modify, and create derivative works of the Dataset solely for non-commercial academic research, educational use, and other nonprofit scholarly purposes.
 
-## 2. Restrictions
+2. Restrictions
 
-Users may not:
+You may not use the Dataset for any commercial purpose, including but not limited to product development, commercial testing, commercial services, contracted research for corporate benefit, or any activity intended to generate revenue. You may not sell, sublicense, rent, lease, distribute, publish, or otherwise transfer the Dataset, in whole or in part, to any third party. You may not remove or alter any copyright, attribution, or license notices associated with the Dataset.
 
-- use the Dataset for any commercial purpose;
-- sell, sublicense, rent, lease, or otherwise redistribute the Dataset, in whole or in part, to any third party;
-- use the Dataset to provide services or build products for commercial benefit;
-- remove or alter any copyright, attribution, or license notices associated with the Dataset.
+3. Attribution
 
-## 3. Redistribution
+Any publication, report, thesis, presentation, benchmark, or other research output using the Dataset must cite the corresponding DarkDriving paper and acknowledge the Dataset appropriately.
 
-Redistribution of the full Dataset or substantial portions of the Dataset is prohibited without prior written permission from the copyright holder.
-
-## 4. Attribution
-
-Any publication, report, thesis, or other research output using the Dataset must cite the corresponding DarkDriving paper and acknowledge the Dataset appropriately.
-
-## 5. No Warranty
-
-The Dataset is provided “as is”, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the copyright holder or contributors be liable for any claim, damages, or other liability arising from the use of the Dataset.
-
-## 6. Commercial Licensing
-
-For commercial use, licensing opportunities, or other permissions beyond the scope of this license, please contact:
-
-[Your Name / Lab / Institution]  
-[Your Email]
-
-By downloading or using the Dataset, you agree to the terms of this license.
+IN NO EVENT SHALL INSTITUTION BE LIABLE TO ANY ENTITY OR PERSON FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, ARISING OUT OF THE USE OF THIS DATASET, EVEN IF INSTITUTION HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. INSTITUTION SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS AND IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE DATASET IS PROVIDED “AS IS.” INSTITUTION HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS OF THIS DATASET.
