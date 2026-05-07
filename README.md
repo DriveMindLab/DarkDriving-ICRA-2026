@@ -93,8 +93,8 @@ Compared with nighttime driving datasets with rough GPS alignment, DarkDriving p
 DarkDriving is collected using an automated vehicle equipped with a front-view RGB camera, LiDAR, GPS, and IMU sensors.
 
 <p align="center">
-  <img src="assets/changan.png" width="30%">
-  <img src="assets/无人车图片1.png" width="30%">
+  <img src="assets/changan.png" width="45%">
+  <img src="assets/无人车图片1.png" width="45%">
 </p>
 
 <p align="center">
