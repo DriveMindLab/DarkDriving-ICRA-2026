@@ -320,3 +320,41 @@ If you use the **DarkDriving** dataset, annotations, or related code in your res
 The arxiv link to the paper:https://arxiv.org/abs/2603.18067
 
 Also, under this LICENSE, DarkDriving is for non-commercial research only. Researchers can modify the source code for their own research only. Contracted work that generates corporate revenues and other general commercial use are prohibited under this LICENSE. 
+
+---
+
+## Contributors
+
+DarkDriving is mainly supported by **[Your Lab / Institution Name]**.
+
+### Principal Investigator
+
+- **[Name]** ([homepage](#), [google scholar](#), [linkedin](#))
+
+### Project Lead
+
+- **[Name]** ([homepage](#), [github](#), [linkedin](#))
+
+### Core Contributors
+
+- **[Name]** ([github](#), [linkedin](#))
+- **[Name]** ([github](#), [linkedin](#))
+- **[Name]** ([github](#), [linkedin](#))
+- **[Name]** ([github](#), [linkedin](#))
+
+### Dataset Collection and Annotation
+
+- **[Name]** ([homepage](#))
+- **[Name]** ([homepage](#))
+- **[Name]** ([homepage](#))
+- **[Name]** ([homepage](#))
+
+### Technical Support
+
+- **[Name]** ([github](#))
+- **[Name]** ([github](#))
+
+### External Collaborators / Acknowledgements
+
+- We would like to thank **[Name / Group / Institution]** for their valuable support in **dataset collection / annotation / experiment design / project discussion**.
+- We also acknowledge **[Name / Lab / Institution]** for helpful discussions and collaboration on this project.
