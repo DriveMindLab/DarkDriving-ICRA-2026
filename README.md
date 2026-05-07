@@ -319,4 +319,4 @@ If you use the **DarkDriving** dataset, annotations, or related code in your res
 ```
 The arxiv link to the paper:https://arxiv.org/abs/2603.18067
 
-Also, under this LICENSE, OpenCDA is for non-commercial research only. Researchers can modify the source code for their own research only. Contracted work that generates corporate revenues and other general commercial use are prohibited under this LICENSE. 
+Also, under this LICENSE, DarkDriving is for non-commercial research only. Researchers can modify the source code for their own research only. Contracted work that generates corporate revenues and other general commercial use are prohibited under this LICENSE. 
