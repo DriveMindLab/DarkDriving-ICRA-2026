@@ -134,4 +134,4 @@ Test output images and metric text files are written under `SAVE_DIR`.
 
 ## Acknowledgement
 
-This project is based on SNR-Aware Low-Light Enhancement.
+This project is based on [SNR-Aware Low-Light Enhancement](https://github.com/JIA-Lab-research/SNR-Aware-Low-Light-Enhance).
