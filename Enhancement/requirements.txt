@@ -1,0 +1,9 @@
+torch==2.4.1
+torchvision==0.19.1
+numpy
+imageio
+opencv-python==4.2.0.32
+tensorboardX
+pyyaml
+pyiqa
+Pillow

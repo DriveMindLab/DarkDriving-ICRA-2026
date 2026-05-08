@@ -1,0 +1,33 @@
+name: darkdriving_release
+suffix: ~
+model: video_base4_m
+distortion: sr
+scale: 1
+crop_border: ~
+gpu_ids: [0]
+
+datasets:
+  test:
+    name: test
+    mode: darkdriving_lle
+    dataroot: ../data/darkdriving_lle/test/
+    train_size: [512, 512]
+    cache_data: true
+    N_frames: 5
+    padding: new_info
+
+network_G:
+  which_model_G: low_light_transformer
+  nf: 64
+  nframes: 5
+  groups: 8
+  front_RBs: 1
+  back_RBs: 1
+  predeblur: true
+  HR_in: true
+  w_TSA: true
+
+path:
+  root: ./
+  pretrain_model_G: ./experiments/darkdriving_release/models/latest_G.pth
+  

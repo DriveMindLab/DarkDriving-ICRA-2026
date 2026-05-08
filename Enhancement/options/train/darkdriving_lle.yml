@@ -1,0 +1,77 @@
+name: darkdriving_release
+use_tb_logger: false
+model: video_base3
+distortion: sr
+scale: 1
+gpu_ids: [0]
+
+datasets:
+  train:
+    name: indoor
+    mode: darkdriving_lle
+    interval_list: [1]
+    random_reverse: false
+    border_mode: false
+    dataroot: ../data/darkdriving_lle/train/
+    train_size: [512, 512]
+    cache_keys: ~
+    cache_data: true
+    padding: new_info
+
+    N_frames: 5
+    use_shuffle: true
+    n_workers: 3
+    batch_size: 16
+    GT_size: 128
+    LQ_size: 128
+    use_flip: true
+    use_rot: true
+    color: RGB
+  val:
+    name: REDS4
+    mode: darkdriving_lle
+    dataroot: ../data/darkdriving_lle/test/
+    cache_data: true
+    N_frames: 5
+    padding: new_info
+    train_size: [512, 512]
+    use_shuffle: true
+
+network_G:
+  which_model_G: low_light_transformer
+  nf: 64
+  nframes: 5
+  groups: 8
+  front_RBs: 1
+  back_RBs: 1
+  predeblur: true
+  HR_in: true
+  w_TSA: true
+
+path:
+  root: ./
+  strict_load: false
+
+train:
+  lr_G: !!float 4e-4
+  lr_scheme: MultiStepLR
+  beta1: 0.9
+  beta2: 0.99
+  niter: 100000
+  ft_tsa_only: 0
+  warmup_iter: -1
+  lr_steps: [10000, 20000, 30000, 50000]
+  lr_gamma: 0.5
+  eta_min: !!float 1e-7
+
+  pixel_criterion: cb
+  pixel_weight: 1.0
+  val_freq: !!float 5e3
+
+  manual.resize960x512_seed: 0
+
+logger:
+  print_freq: 200
+  save_checkpoint_freq: 0
+  save_training_state: false
+  print_network: false

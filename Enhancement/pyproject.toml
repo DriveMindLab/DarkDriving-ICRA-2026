@@ -1,0 +1,19 @@
+[project]
+name = "darkdriving-lle"
+version = "0.1.0"
+description = "Minimal DarkDriving LLE training and testing runner"
+requires-python = ">=3.8,<3.12"
+dependencies = [
+    "torch==2.4.1",
+    "torchvision==0.19.1",
+    "numpy",
+    "imageio",
+    "opencv-python>=4.2",
+    "tensorboardX",
+    "pyyaml",
+    "pyiqa",
+    "Pillow",
+]
+
+[tool.uv]
+package = false
