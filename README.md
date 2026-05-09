@@ -325,7 +325,7 @@ Also, under this LICENSE, DarkDriving is for non-commercial research only. Resea
 
 ## Contributors
 
-DarkDriving is mainly supported by **[Your Lab / Institution Name]**.
+DarkDriving is mainly supported by **[Lab / Institution Name]**.
 
 ### Principal Investigator
 
