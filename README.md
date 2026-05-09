@@ -329,11 +329,11 @@ DarkDriving is mainly supported by **[Your Lab / Institution Name]**.
 
 ### Principal Investigator
 
-- WuQi Wang
+- Haigen Min,Xiangmo Zhao
 
 ### Project Lead
 
-- HaiGen Min
+- Wuqi Wang
 
 ### Team Members
 
