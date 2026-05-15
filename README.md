@@ -7,7 +7,7 @@ A real-world paired day-night driving dataset with centimeter-level alignment fo
 ### News
 
 - **[2026-03]** DarkDriving paper is available.
-- **[Coming Soon]** Dataset download link will be released.
+- **[2026-05]** Dataset download link is released.
 
 ---
 
@@ -36,6 +36,17 @@ https://github.com/user-attachments/assets/c3cfe881-e4ac-4753-b6f9-6d00b583acb4
 - **2D bounding box annotations** for autonomous driving perception.
 - **6 types of road scenes** and **12 types of nighttime lighting conditions**.
 - Supports low-light enhancement, day-night image translation, 2D detection, and 3D detection.
+
+---
+
+## Download
+
+The DarkDriving dataset is released for academic research and non-commercial use only.  
+Please read and agree to the dataset license before downloading.
+
+| Part | Description | Link |
+|---|---|---|
+| Full Dataset | 9,538 day-night aligned image pairs | https://pan.baidu.com/s/1_CO9c3wElufrfxnkKVHIkQ?pwd=e5gr  |
 
 ---
 
@@ -329,7 +340,7 @@ DarkDriving is mainly supported by **[Lab / Institution Name]**.
 
 ### Principal Investigator
 
-- Haigen Min,Xiangmo Zhao
+- Haigen Min, Xiangmo Zhao
 
 ### Project Lead
 
