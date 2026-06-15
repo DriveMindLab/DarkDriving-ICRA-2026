@@ -46,10 +46,8 @@ Please read and agree to the dataset license before downloading.
 
 | Part | Description | Link | 
 |---|---|---|
-| Full Dataset | 9,538 day-night aligned image pairs | https://pan.baidu.com/s/1_CO9c3wElufrfxnkKVHIkQ?pwd=e5gr |
+| Full Dataset | 9,538 day-night aligned image pairs | https://pan.baidu.com/s/1_CO9c3wElufrfxnkKVHIkQ?pwd=e5gr  https://1drv.ms/f/c/64492cf1fc56cdde/IgBildMHaeDLQ7NXwkqXCKDLAbVrk7syF0lhIIu3PSVJUPU?e=sMJP2T |
 
-Other ways
-https://1drv.ms/f/c/64492cf1fc56cdde/IgBildMHaeDLQ7NXwkqXCKDLAbVrk7syF0lhIIu3PSVJUPU?e=sMJP2T
 ---
 
 ### Dataset Overview
