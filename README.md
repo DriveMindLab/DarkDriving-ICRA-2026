@@ -39,14 +39,14 @@ https://github.com/user-attachments/assets/c3cfe881-e4ac-4753-b6f9-6d00b583acb4
 
 ---
 
-## Download
+### Download
 
 The DarkDriving dataset is released for academic research and non-commercial use only.  
 Please read and agree to the dataset license before downloading.
 
-| Part | Description | Link |
+| Part | Description | Link | 
 |---|---|---|
-| Full Dataset | 9,538 day-night aligned image pairs | https://pan.baidu.com/s/1_CO9c3wElufrfxnkKVHIkQ?pwd=e5gr  |
+| Full Dataset | 9,538 day-night aligned image pairs | https://pan.baidu.com/s/1_CO9c3wElufrfxnkKVHIkQ?pwd=e5gr  OR  https://1drv.ms/f/c/64492cf1fc56cdde/IgBildMHaeDLQ7NXwkqXCKDLAbVrk7syF0lhIIu3PSVJUPU?e=sMJP2T |
 
 ---
 
@@ -336,8 +336,6 @@ Also, under this LICENSE, DarkDriving is for non-commercial research only. Resea
 
 ## Contributors
 
-DarkDriving is mainly supported by **[Lab / Institution Name]**.
-
 ### Principal Investigator
 
 - Haigen Min, Xiangmo Zhao
@@ -346,14 +344,4 @@ DarkDriving is mainly supported by **[Lab / Institution Name]**.
 
 - Wuqi Wang
 
-### Team Members
 
-- **[Name]** 
-- **[Name]**
-- **[Name]**
-- **[Name]** 
-
-### External Collaborators / Acknowledgements
-
-- We would like to thank **[Name / Group / Institution]** for their valuable support in **dataset collection / annotation / experiment design / project discussion**.
-- We also acknowledge **[Name / Lab / Institution]** for helpful discussions and collaboration on this project.
